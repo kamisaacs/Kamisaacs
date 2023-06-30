@@ -3,7 +3,7 @@
 
 <h3 align="center">I'm a  passionate developer from Atlanta.</h3>
 
--- 🔭 I’m currently working on a  **Java console game.**
+- 🔭 I’m currently working on a  **Java console game.**
 
 - 🌱 I’m currently learning **Java, TensorFlow, ChatGPT.**
 
