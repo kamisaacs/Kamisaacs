@@ -11,7 +11,7 @@ ___
 
 <p align="center" >              🌱 I’m currently learning Java and ChatGPT. </p>
 
-<p align="center" >  :email:  -------->>>>  [kamisaacs@gmail.com](mailto:kamisaacs@gmail.com) </p>
+<p align="center" > :email:  -------->>>>   [kamisaacs@gmail.com](mailto:kamisaacs@gmail.com) </p>
 
 
 ---
