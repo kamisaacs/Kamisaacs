@@ -1,6 +1,10 @@
 <h1 align="center">HELLO WORLD!     👋    I'M KAMI</h1>
 
 
+
+
+
+
 <h3 align="center">I'm a  passionate developer from Atlanta.</h3>
 
 - 🔭 I’m currently working on **Java console game.**
