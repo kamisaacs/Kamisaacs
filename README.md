@@ -4,7 +4,7 @@
 <h3 align="center">I'm a  passionate developer from Atlanta. I'f I'm not :computer: , then I'm probably   :wrench:   my      :red_car:   . </h3>
 
 ___
-
+___
 <p align="center" > - 🔭 I’m currently working on a  **Java console game.** </p>
 
 <p align="center">  - 🌱 I’m currently learning **Java, TensorFlow, ChatGPT.** </p>
