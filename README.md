@@ -7,9 +7,9 @@ ___
 ___
 <p align="center" > - 🔭 I’m currently working on a  **Java console game.** </p>
 
-<p align="center" >              - 🌱 I’m currently learning **Java, TensorFlow, ChatGPT.** </p>
+-<p align="center" >              - 🌱 I’m currently learning **Java, TensorFlow, ChatGPT.** </p>
 
-<p align="center" > :email:  -------->>>> [kamisaacs@gmail.com](mailto:kamisaacs@gmail.com) </p>
+-<p align="center" > :email:  -------->>>> [kamisaacs@gmail.com](mailto:kamisaacs@gmail.com) </p>
 ___
 
 <h3 align="center">Connect with me:</h3>
