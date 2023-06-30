@@ -5,7 +5,7 @@
 
 ___
 ___
-<p align="center" >  🔭 I’m currently working on a  Java console game. </p>
+<p align="center" >  🔭 I’m working on a  Java console game. </p>
 
 <p align="center" >              🌱 I’m currently learning Java and ChatGPT. </p>
 
