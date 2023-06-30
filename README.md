@@ -2,6 +2,7 @@
 
 
 <h3 align="center">I'm a  passionate developer from Atlanta. I'f I'm not :computer: , then I'm probably   :wrench:   my      :red_car:   . </h3>
+
 ___
 
 - 🔭 I’m currently working on a  **Java console game.**
