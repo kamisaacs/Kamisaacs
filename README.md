@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kami</h1>
+<h1 align="center">HELLO WORLD! 👋, I'm Kami</h1>
 <h3 align="center">A passionate developer from Atlanta.</h3>
 
 - 🔭 I’m currently working on **Java console game.**
