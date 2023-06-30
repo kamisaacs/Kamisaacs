@@ -9,7 +9,7 @@ ___
 
 <p align="center" >              - 🌱 I’m currently learning **Java, TensorFlow, ChatGPT.** </p>
 
--  :email:  -------->>>> **kamisaacs@gmail.com**
+- <p align="center" > :email:  -------->>>> **kamisaacs@gmail.com** </p>
 ___
 
 <h3 align="center">Connect with me:</h3>
